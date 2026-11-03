@@ -7,7 +7,7 @@ RUN apk add --no-cache curl bash
 
 # Copy package files
 COPY package*.json ./
-RUN RUN npm install --legacy-peer-deps
+RUN npm install --legacy-peer-deps
 
 # Copy application source
 COPY . .
