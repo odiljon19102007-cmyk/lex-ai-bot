@@ -1,0 +1,11 @@
+export interface LegalQueryResponse {
+  answer: string;
+  articles?: string[];
+}
+
+export async function processLegalQuery(query: string): Promise<LegalQueryResponse> {
+  return {
+    answer: "Sizning so'rovingiz qabul qilindi.",
+    articles: []
+  };
+}
