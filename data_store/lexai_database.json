@@ -1,0 +1,312 @@
+{
+  "users": [
+    {
+      "id": "admin_master",
+      "telegram_id": 1,
+      "first_name": "Bosh Administrator",
+      "username": "admin",
+      "role": "admin",
+      "created_at": "2026-11-03T14:51:57.080Z",
+      "last_active": "2026-11-03T14:51:57.080Z",
+      "queries_count": 1
+    },
+    {
+      "id": "user_1793718278030",
+      "first_name": "odiljon",
+      "username": "odiljon",
+      "role": "admin",
+      "queries_count": 0,
+      "created_at": "2026-11-03T15:04:38.030Z",
+      "last_active": "2026-11-03T15:04:38.030Z"
+    }
+  ],
+  "ai_queries": [
+    {
+      "id": "aiq_1793898322368_srkr",
+      "user_id": "default_user",
+      "user_name": "Foydalanuvchi",
+      "query": "Ish beruvchi sinov muddati deb 5 oy belgilasa qonuniymi va nima qilish kerak?",
+      "answer": "⚖️ **Yangi Mehnat kodeksi bo'yicha dastlabki sinov muddati qoidalari va xodimning to'liq huquqlari:**\n\n📌 **1. Keng qamrovli huquqiy tahlil va qonuniy asoslar (Yangi Mehnat kodeksi O'RQ-798):**\nSinov muddati ish beruvchi tomonidan xodimning topshirilayotgan ishga muvofiqligini tekshirish maqsadida faqat **ishga qabul qilish paytida va mehnat shartnomasida yozma ravishda kelishilgan holdagina** belgilanadi. Keyinchalik sinov muddati qo'shish qat'iyan man etiladi.\n• **130-modda (Sinov muddatining eng ko'p davomiyligi):**\n  - Oddiy xodimlar uchun dastlabki sinov muddati **3 OYDAN OSHISHI MUMKIN EMAS**.\n  - Faqat tashkilot rahbarlari, ularning o'rinbosarlari, bosh buxgalterlar va alohida bo'linmalar rahbarlari uchun — **6 oygacha** belgilanishi mumkin.\n  - Sinov muddatini tomonlarning kelishuvi bilan ham 3 oydan ortiq muddatga uzaytirish **MUTLAQO TAQIQLANADI**!\n  - Xodim vaqtincha mehnatga qobiliyatsiz bo'lgan davr (kasallik varaqasi) va ishda haqiqatda bo'lmagan boshqa davrlar sinov muddatiga qo'shilmaydi.\n• **129-modda (Sinov muddati belgilash QAT'IYAN TAQIQLANGAN shaxslar ro'yxati):**\n  Quyidagi 6 toifa fuqarolarni ishga qabul qilishda sinov muddati belgilash qonunan taqiqlanadi:\n  1️⃣ Homilador ayollarga va 3 yoshga to'lmagan bolasi bor shaxslarga;\n  2️⃣ Davlat grantlari yoki kontrakt asosida OTM, texnikum yoki kollejlarni tamomlagan va ta'lim muassasasini bitirgan kundan e'tiboran 1 yil ichida birinchi bor ishga kirayotgan bitiruvchilarga;\n  3️⃣ 6 oygacha bo'lgan muddatga tuziladigan muddatli mehnat shartnomalari bo'yicha ishga qabul qilinayotgan xodimlarga;\n  4️⃣ Korxona boshqaruv organi tanlovidan o'tgan shaxslarga;\n  5️⃣ Aholi bandligiga ko'maklashish markazlari (Mehnat birjasi) yo'llanmasi bilan zaxiralangan ish o'rinlariga ishga yuborilganlarga;\n  6️⃣ Ish beruvchi bilan alohida o'quv shartnomasi asosida ta'lim olib ishga kirayotgan shaxslarga.\n• **131-modda (Sinov davridagi mehnat sharoiti va ish haqi):**\n  - Dastlabki sinov davrida xodimga O'zbekiston Respublikasi mehnat qonunchiligi, jamoa shartnomasi va ichki qoidalar **100% to'liq hajmda tatbiq etiladi**.\n  - \"Sinovdasan\" deb xodimga asosiy shtat maoshidan kam maosh to'lash, ustamalarni to'lamaslik yoki ta'tillarni cheklash — **QONUNGA QAT'IYAN ZIDDIR**.\n• **132-modda (Sinov natijasi qoniqarsiz bo'lganda shartnomani bekor qilish tartibi):**\n  - Ish beruvchi xodim sinovdan o'tmagan deb topsa, sinov muddati tugagunga qadar **kamida 3 kun oldin xodimni yozma ravishda ogohlantirishi SHART**.\n  - Ogohlantirish xatida xodim aynan qaysi vazifalarni bajara olmaganligi aniq dalillar (aktlar, bildirishnomalar) bilan ko'rsatilishi shart.\n  - Agar sinov muddati tugasa va tomonlarning hech biri shartnomani bekor qilishni talab qilmagan bo'lsa, xodim sinovdan muvaffaqiyatli o'tgan hisoblanadi va keyinchalik uni sinov vajhi bilan bo'shatib bo'lmaydi.\n  - Xodim ish beruvchining sinov natijasi bo'yicha qarori ustidan Fuqarolik sudiga da'vo kiritish huquqiga ega.\n\n📋 **2. Noqonuniy sinov muddati belgilanganda nima qilish kerak:**\n1️⃣ Mehnat shartnomangizni tekshiring: Agar yuqoridagi 6 toifaga kirsangiz yoki 3 oydan ortiq sinov yozilgan bo'lsa, bu band avtomatik ravishda haqiqiy emas hisoblanadi.\n2️⃣ Ish beruvchiga yozma ariza bering yoki Davlat mehnat inspeksiyasiga (**1282**, **dmi.mehnat.uz**) murojaat qiling.\n3️⃣ Noqonuniy ravishda sinov muddati bahonasi bilan bo'shatilgan taqdirda, 1 oy ichida Fuqarolik sudiga murojaat qiling (barcha majburiy progul kunlari uchun oylik maosh undirib beriladi).\n\n⏳ **3. Muddatlar va javobgarlik:**\n• Noqonuniy sinov muddati belgilagan yoki kamsitishga yo'l qo'ygan ish beruvchiga **MJtK 49-moddasi bo'yicha BHMning 5 dan 10 baravarigacha jarima** qo'llaniladi.\n\n🟢 **Maqomi:** ✅ AMALDAGI QONUNCHILIK (O'RQ-798)\n🔗 **Lex.uz rasmiy havolasi:** https://lex.uz/docs/6257288",
+      "sources": [
+        {
+          "title": "Yangi Mehnat kodeksi bo'yicha dastlabki sinov muddati, qat'iy cheklovlar va noqonuniy sinovdan himoyalanish - Lex.uz",
+          "uri": "https://lex.uz/docs/6257288"
+        }
+      ],
+      "law_status": "AMALDAGI_QONUNCHILIK",
+      "timestamp": "2026-11-05T17:05:22.368Z"
+    },
+    {
+      "id": "aiq_1793893352862_6k96",
+      "user_id": "default_user",
+      "user_name": "Foydalanuvchi",
+      "query": "Ish beruvchi sinov muddati deb 5 oy belgilasa qonuniymi?",
+      "answer": "⚖️ **Dastlabki sinov muddati qoidalari (Yangi Mehnat kodeksi 129-132-moddalari):**\n\n📌 **1. Qonuniy muddatlar:**\n• **130-modda:** Dastlabki sinov muddati **3 OYDAN OSHISHI MUMKIN EMAS**.\n• Faqat tashkilot rahbari, uning o‘rinbosarlari, bosh buxgalterlar va alohida bo‘linma rahbarlari uchun — **6 oygacha** belgilanishi mumkin.\n• Kasallik davri (byulleten) va xodim ishda bo'lmagan davrlar sinov muddatiga kiritilmaydi.\n\n📌 **2. Kimgadir sinov muddati belgilash QAT'IYAN TAQIQLANADI (129-modda):**\n1️⃣ Homilador ayollarga va 3 yoshgacha bolasi bor shaxslarga;\n2️⃣ Oliy ta'lim (OTM), kollej yoki texnikumni bitirib, mutaxassisligi bo'yicha 1 yil ichida birinchi bor ishga kirayotgan bitiruvchilarga;\n3️⃣ 6 oygacha muddatga tuziladigan mehnat shartnomalari bo'yicha ishga qabul qilinayotganlarga;\n4️⃣ Ish o'rinlari zaxirasiga muvofiq ishga yuborilgan shaxslarga.\n\n📌 **3. Sinov davridagi ish haqi:**\n• Sinov muddati davrida xodimga to'liq qonuniy huquqlar tatbiq etiladi. \"Sinovdasan, senga kam oylik to'lanadi\" deyish — qonunga zid!\n\n🟢 **Maqomi:** ✅ AMALDAGI QONUNCHILIK\n🔗 **Lex.uz rasmiy havolasi:** https://lex.uz/docs/6257288",
+      "sources": [
+        {
+          "title": "Sinov muddati qoidalari, cheklovlar va noqonuniy sinov - Lex.uz",
+          "uri": "https://lex.uz/docs/6257288"
+        }
+      ],
+      "law_status": "AMALDAGI_QONUNCHILIK",
+      "timestamp": "2026-11-05T15:42:32.863Z"
+    },
+    {
+      "id": "aiq_1793893143646_h9zs",
+      "user_id": "2129372360",
+      "user_name": "Odiljon",
+      "query": "Vasiyatnoma bo'yicha batafsil amaliy misollar bilan tushuntirib bering",
+      "answer": "⚖️ **Meros qabul qilish tartibi va qoidalari (Fuqarolik kodeksi 1112-1157-moddalari):**\n\n📌 **1. ENG ASOSIY QOIDA VA QAT'IY MUDDAT (FK 1146-modda):**\n• Meros vafot etgan shaxsning o'limi qayd etilgan kundan boshlab **QAT'IY 6 OY ICHIDA** notarial idoraga ariza berish orqali qabul qilinishi shart!\n• Agar 6 oylik muddat uzrli sababsiz o'tkazib yuborilsa, meros huquqi yo'qotiladi va uni tiklash faqat sud orqali amalga oshiriladi.\n\n📌 **2. Qonun bo'yicha merosxo'rlik navbati (FK 1135-1139-moddalar):**\n• **1-navbat:** Marhumning bolalari (shu jumladan vafotidan keyin tug'ilgan bolalari), eri (xotini) va ota-onasi teng ulushlarda meros oladilar.\n• **2-navbat:** Marhumning tug'ishgan va o'gay aka-uka hamda opa-singillari, bobosi va buvisi.\n\n🟢 **Maqomi:** ✅ AMALDAGI QONUNCHILIK\n🔗 **Lex.uz rasmiy havolasi:** https://lex.uz/docs/111189",
+      "sources": [
+        {
+          "title": "Merosni qabul qilib olishning qat'iy 6 oylik muddati va taqsimoti - Lex.uz",
+          "uri": "https://lex.uz/docs/111189"
+        }
+      ],
+      "law_status": "AMALDAGI_QONUNCHILIK",
+      "timestamp": "2026-11-05T15:39:03.646Z"
+    },
+    {
+      "id": "aiq_1793893114827_a042",
+      "user_id": "2129372360",
+      "user_name": "Odiljon",
+      "query": "Vasiyatnoma",
+      "answer": "⚖️ **Meros qabul qilish tartibi va qoidalari (Fuqarolik kodeksi 1112-1157-moddalari):**\n\n📌 **1. ENG ASOSIY QOIDA VA QAT'IY MUDDAT (FK 1146-modda):**\n• Meros vafot etgan shaxsning o'limi qayd etilgan kundan boshlab **QAT'IY 6 OY ICHIDA** notarial idoraga ariza berish orqali qabul qilinishi shart!\n• Agar 6 oylik muddat uzrli sababsiz o'tkazib yuborilsa, meros huquqi yo'qotiladi va uni tiklash faqat sud orqali amalga oshiriladi.\n\n📌 **2. Qonun bo'yicha merosxo'rlik navbati (FK 1135-1139-moddalar):**\n• **1-navbat:** Marhumning bolalari (shu jumladan vafotidan keyin tug'ilgan bolalari), eri (xotini) va ota-onasi teng ulushlarda meros oladilar.\n• **2-navbat:** Marhumning tug'ishgan va o'gay aka-uka hamda opa-singillari, bobosi va buvisi.\n\n🟢 **Maqomi:** ✅ AMALDAGI QONUNCHILIK\n🔗 **Lex.uz rasmiy havolasi:** https://lex.uz/docs/111189",
+      "sources": [
+        {
+          "title": "Merosni qabul qilib olishning qat'iy 6 oylik muddati va taqsimoti - Lex.uz",
+          "uri": "https://lex.uz/docs/111189"
+        }
+      ],
+      "law_status": "AMALDAGI_QONUNCHILIK",
+      "timestamp": "2026-11-05T15:38:34.827Z"
+    },
+    {
+      "id": "aiq_1793823693301_n09c",
+      "user_id": "default_user",
+      "user_name": "Foydalanuvchi",
+      "query": "Ishdan bo'shatish tartibi qanday?",
+      "answer": "⚖️ **Yangi Mehnat kodeksi bo'yicha ishdan bo'shatishning qat'iy tartibi va kafolatlari:**\n\n📌 **1. Qonuniy asoslar (Yangi Mehnat kodeksi O'RQ-798, 2023-yil 30-apreldan kuchda):**\n• **161-modda:** Ish beruvchi tashabbusi bilan mehnat shartnomasini bekor qilish faqat qat'iy asoslar bo'yicha amalga oshiriladi (tashkilot tugatilishi, shtat qisqarishi, malakasi yetarli emasligi, intizomni muntazam yoki 1 marta qo'pol buzganlik).\n• **165-modda (Ogohlantirish muddatlari):** Ish beruvchi xodimni shartnoma bekor qilinishi haqida yozma ravishda (tilxat olib) quyidagi muddatlarda ogohlantirishi shart:\n  - Shtat qisqarganda yoki korxona tugatilganda — **kamida 2 oy oldin**;\n  - Xodimning malakasi yetarli bo'lmaganda — **kamida 2 hafta oldin**;\n  - Mehnat majburiyatlarini buzganligi uchun — **kamida 3 ish kuni oldin**.\n• **173-modda (Ishdan bo'shatish nafaqasi):** Shtat qisqarganda xodimga ish stajiga qarab o'rtacha oylik ish haqining **50 foizidan 200 foizigacha** miqdorida ishdan bo'shatish nafaqasi to'lanadi.\n• **408-modda:** Homilador ayollar va 3 yoshgacha bolasi bor xodimlarni ish beruvchi tashabbusi bilan ishdan bo'shatish **QAT'IYAN TAQIQLANADI** (korxona to'liq tugatilgan hollar bundan mustasno).\n• **163-modda:** Agar jamoa shartnomasida belgilangan bo'lsa, xodimni bo'shatishda **kasaba uyushmasi qo'mitasining oldindan roziligini olish majburiydir**.\n\n📋 **2. NIMA QILISH KERAK (Noqonuniy bo'shatilganda):**\n1️⃣ **Buyruq nusxasini oling:** Ishdan bo'shatish to'g'risidagi buyruq nusxasini va mehnat daftarchasini (my.mehnat.uz ko'chirmasini) talab qilib oling.\n2️⃣ **Pretenziya va Mehnat inspeksiyasiga murojaat:**\n   • Davlat mehnat inspeksiyasiga (📞 **1282** yoki **dmi.mehnat.uz**) shikoyat yuboring.\n3️⃣ **Sud orqali ishga tiklash va majburiy progul pulini undirish:**\n   • Ishdan bo'shatish to'g'risidagi buyruq topshirilgan kundan boshlab **1 OY ICHIDA** Fuqarolik ishlari bo'yicha tumanlararo sudiga \"Ishga tiklash va majburiy progul davri uchun oylik maoshni undirish to'g'risida\" da'vo arizasi kiriting.\n   • Sud xodim foydasiga hal qilsa, buyruq bekor qilinadi, xodim avvalgi ishiga tiklanadi va ishlamay yurgan barcha kunlar uchun o'rtacha maosh undirib beriladi.\n\n⏳ **3. Muddat va Davlat boji imtiyozi:**\n• **Da'vo muddati:** Ishga tiklash bo'yicha — buyruq chiqqan kundan boshlab **1 oy**; boshqa mehnat nizolarida — **3 oy** (MK 560-modda).\n• **Davlat boji:** O'zbekiston Respublikasi Soliq kodeksi va \"Davlat boji to'g'risida\"gi Qonunga binoan, xodimlar mehnat nizolari bo'yicha sudga murojaat qilganda **DAVLAT BOJIDAN TO'LIQ OZOD QILINGAN!**\n\n🟢 **Maqomi:** ✅ AMALDAGI QONUNCHILIK (O'RQ-798)\n🔗 **Lex.uz rasmiy havolasi:** https://lex.uz/docs/6257288",
+      "sources": [
+        {
+          "title": "Ishdan bo'shatishning qonuniy tartibi va noqonuniy bo'shatilganda ishga tiklanish - Lex.uz",
+          "uri": "https://lex.uz/docs/6257288"
+        }
+      ],
+      "law_status": "AMALDAGI_QONUNCHILIK",
+      "timestamp": "2026-11-04T20:21:33.301Z"
+    },
+    {
+      "id": "aiq_1793823662130_80fa",
+      "user_id": "default_user",
+      "user_name": "Foydalanuvchi",
+      "query": "Qo'shnim suv toshirib zarar yetkazdi nima qilishim kerak?",
+      "answer": "⚖️ **Qo'shni suv toshirib xonadonga va mol-mulkka zarar yetkazganda nima qilish kerak:**\n\n📌 **1. Keng qamrovli huquqiy tahlil va qonuniy asos:**\n• **Fuqarolik kodeksi 985-moddasi (Zarar yetkazganlik uchun umumiy javobgarlik):** G'ayriqonuniy harakat (yoki harakatsizlik) tufayli fuqaroning shaxsiga yoki mol-mulkiga yetkazilgan zarar uni yetkazgan shaxs tomonidan **to'liq hajmda qoplanishi shart**.\n• **Fuqarolik kodeksi 14-moddasi (Zararni to'lash):** Zarar deganda jabrlanuvchining buzilgan huquqini tiklash uchun qilgan yoki qilishi lozim bo'lgan xarajatlari (haqiqiy zarar), shuningdek mol-mulkning yo'qotilishi yoki shikastlanishi tushuniladi.\n• **Uy-joy kodeksi 24-moddasi:** Ko'p kvartirali uylarda xonadon mulkdori qo'shnilarning huquqlarini buzmasligi va muhandislik tarmoqlarini (quvurlar, kranlar) soz holatda saqlashi shart.\n\n📋 **2. Qadamma-qadam amaliy harakatlar rejasi (Algoritm):**\n1️⃣ **1-qadam (Dalillarni zudlik bilan qayd etish):**\n   • Suv toshgan joyni, shift, devorlar, mebel va maishiy texnikalarning shikastlanganini foto va videotasvirga muhrlang.\n   • Podvaldagi umumiy suv stoyaklarini zudlik bilan yopib qo'ying.\n2️⃣ **2-qadam (Rasmiy dalolatnoma - AKT tuzish):**\n   • Zudlik bilan o'z xonadoningizga xizmat ko'rsatuvchi **Boshqaruv servis kompaniyasi (BSK / JEK)** mutaxassislari, Mahalla fuqarolar yig'ini (MFY) vakillari hamda kamida 2 nafar qo'shni (xolislar)ni chaqiring.\n   • Dalolatnomada: suv qaysi xonadondan (masalan, yuqori qavatdagi 45-xonadon quvuri yorilishi sababli) toshgani, toshish vaqti va shikastlangan xonalar hamda buyumlar ro'yxati aniq yoziladi va barcha ishtirokchilar tomonidan imzolanadi. (Agar aybdor qo'shni imzolashdan bosh tortsa, \"imzolashdan bosh tortdi\" deb yozib akt tuziladi).\n3️⃣ **3-qadam (Mustaqil baholash ekspertizasi):**\n   • Litsenziyaga ega mustaqil baholovchi tashkilotni chaqirib, ta'mirlash xarajatlari va ko'rilgan moddiy zararning rasmiy baholash hisobotini tuzdiring.\n4️⃣ **4-qadam (Pretenziya va Sudga da'vo):**\n   • Aybdor qo'shniga baholash xulosasi nusxasi bilan 10 kun ichida zararni qoplash haqida yozma pretenziya bering.\n   • Agar ixtiyoriy to'lamasa, **Fuqarolik ishlari bo'yicha tumanlararo sudiga** \"Yetkazilgan moddiy va ma'naviy zararni hamda baholash xarajatlarini undirish to'g'risida\" da'vo arizasi kiriting (my.sud.uz orqali elektron topshirish mumkin).\n\n⏳ **3. Muhim muddatlar va davlat boji:**\n• **Da'vo muddati:** Fuqarolik kodeksi 150-moddasiga asosan umumiy da'vo muddati — **3 yil**.\n• **Davlat boji:** \"Davlat boji to'g'risida\"gi Qonun bo'yicha moddiy da'vo summasining 4 foizi miqdorida to'lanadi va sud qarori bilan aybdor qo'shnidan to'liq undirib beriladi.\n\n🟢 **Maqomi:** ✅ AMALDAGI QONUNCHILIK\n🔗 **Lex.uz rasmiy havolasi:** https://lex.uz/docs/111189",
+      "sources": [
+        {
+          "title": "Qo'shni suv toshirib mol-mulkka zarar yetkazganda ko'riladigan choralar - Lex.uz",
+          "uri": "https://lex.uz/docs/111189"
+        }
+      ],
+      "law_status": "AMALDAGI_QONUNCHILIK",
+      "timestamp": "2026-11-04T20:21:02.130Z"
+    },
+    {
+      "id": "aiq_1793822854606_9uzp",
+      "user_id": "default_user",
+      "user_name": "Foydalanuvchi",
+      "query": "Agar shunda ham bermasa-chi, qaysi sudga berishim kerak va davlat boji toʻlaymanmi?",
+      "answer": "⚖️ **O'zbekistonda sudga da'vo arizasi kiritish tartibi:**\n\n📌 **1. Sudlovga tegishlilik:**\n• Fuqarolar o'rtasidagi nizolar (qarz, mulk, zarar, aliment, ajrashish) — **Fuqarolik ishlari bo'yicha tumanlararo sudlariga**;\n• Ish beruvchi va xodim o'rtasidagi ish haqi va mehnat nizolari — Fuqarolik sudiga (**davlat bojisiz!**);\n• Mansabdor shaxslarning noqonuniy qarorlari ustidan — **Ma'muriy sudlarga** beriladi.\n\n📋 **Elektron ariza berish:**\n• Sudga arizalarni uydan chiqmasdan **my.sud.uz** portali orqali elektron topshirish mumkin.\n• Adliya vazirligining bepul yuridik yordam ishonch telefoni: **1008**.\n\n🟢 **Maqomi:** ✅ AMALDAGI QONUNCHILIK\n🔗 **Lex.uz rasmiy havolasi:** https://lex.uz/docs/4143851",
+      "sources": [
+        {
+          "title": "Sudga murojaat qilish va huquqlarni himoya qilish - Lex.uz",
+          "uri": "https://lex.uz/docs/4143851"
+        }
+      ],
+      "law_status": "AMALDAGI_QONUNCHILIK",
+      "timestamp": "2026-11-04T20:07:34.606Z"
+    },
+    {
+      "id": "aiq_1793822325163_ssuf",
+      "user_id": "default_user",
+      "user_name": "Foydalanuvchi",
+      "query": "Mehnat kodeksi 99-modda",
+      "answer": "⚠️ **DIQQAT: 1995-YILGI MEHNAT KODEKSINING 99-MODDASI BEKOR QILINGAN!**\n\n🟢 **AMALDAGI QONUNCHILIK:**\nXodimning tashabbusi bilan mehnat shartnomasini bekor qilish Yangi Mehnat kodeksining (O'RQ-798) **160-MODDASI** bo'yicha amalga oshiriladi:\n• Xodim nomuayyan muddatli hamda muddatli mehnat shartnomasini **14 kalendar kun oldin** ish beruvchini yozma ravishda ogohlantirgan holda bekor qilishga haqlidir.\n• Xodim ogohlantirish muddati davomida istalgan vaqtda arizasini qaytarib olishga haqli.\n• Agar xodimning ishni davom ettirishiga imkon bermaydigan uzrli sabablar (pensiyaga chiqish, o'qishga kirish va h.k.) bo'lsa, ariza berilgan kundan boshlab bekor qilinadi.\n\n🟢 **Maqomi:** ✅ AMALDAGI QONUNCHILIK (O'RQ-798, 160-modda)\n🔗 **Lex.uz rasmiy havolasi:** https://lex.uz/docs/6257288",
+      "sources": [
+        {
+          "title": "Lex.uz Rasmiy Qonunchilik Bazasida Ko'rish",
+          "uri": "https://lex.uz/docs/6257288"
+        }
+      ],
+      "law_status": "AMALDAGI_QONUNCHILIK",
+      "timestamp": "2026-11-04T19:58:45.163Z"
+    },
+    {
+      "id": "aiq_1793822318712_8kjp",
+      "user_id": "default_user",
+      "user_name": "Foydalanuvchi",
+      "query": "MK 100-modda boʻyicha ishdan boʻshatish toʻgʻrimi?",
+      "answer": "⚠️ **DIQQAT: 1995-YILGI MEHNAT KODEKSINING 100-MODDASI BUTUNLAY BEKOR BO'LGAN VA AMALIYOTDA QO'LLANILMAYDI!**\n\n🟢 **AMALDAGI QONUNCHILIK (2023-yil 30-apreldan kuchga kirgan Yangi Mehnat kodeksi O'RQ-798):**\nEski 100-modda o'rniga ayni paytda **161-MODDA** amal qiladi.\n\n📌 **161-modda. Mehnat shartnomasini ish beruvchining tashabbusi bilan bekor qilish asoslari:**\n1️⃣ Texnologiyaning, ishlab chiqarish va mehnatni tashkil etishning o‘zgarishi, xodimlar soni (shtati) qisqarganligi;\n2️⃣ Xodimning malakasi yetarli bo‘lmaganligi sababli egallab turgan lavozimiga noloyiqligi;\n3️⃣ Xodim o‘z mehnat majburiyatlarini muntazam ravishda buzganligi (oldingi intizomiy jazo bo'lishi shart);\n4️⃣ Xodim o‘z mehnat majburiyatlarini bir marta qo‘pol ravishda buzganligi (ichki qoidalarda aniq ko'rsatilgan bo'lishi shart).\n\n💡 **Qo'shimcha kafolatlar:**\n• Homilador ayollar va 3 yoshgacha bolasi bor ayollar bilan ish beruvchi tashabbusi bilan shartnomani bekor qilish taqiqlanadi (tashkilot tugatilgan hollar bundan mustasno).\n• Mehnat shartnomasi bekor qilinayotganda xodimga 165-modda bo'yicha yozma ogohlantirish (shtat qisqarganda 2 oy oldin) va 173-modda bo'yicha ishdan bo'shatish nafaqasi to'lanadi.\n\n🟢 **Maqomi:** ✅ YANGI AMALDAGI KODEKS (O'RQ-798, 161-modda)\n🔗 **Lex.uz rasmiy havolasi:** https://lex.uz/docs/6257288",
+      "sources": [
+        {
+          "title": "Lex.uz Rasmiy Qonunchilik Bazasida Ko'rish",
+          "uri": "https://lex.uz/docs/6257288"
+        }
+      ],
+      "law_status": "AMALDAGI_QONUNCHILIK",
+      "timestamp": "2026-11-04T19:58:38.712Z"
+    },
+    {
+      "id": "aiq_1793821211551_yji4",
+      "user_id": "default_user",
+      "user_name": "Foydalanuvchi",
+      "query": "Qoʻshnim tomidan suv oqib xonadonimga zarar yetkazdi, zararni qanday undiraman?",
+      "answer": "📌 **Qisqa va lo'nda xulosa:**\nQo'shnining uyidan oqqan suv natijasida xonadoningizga yetkazilgan zararni undirish uchun dastlab o'zaro tinch yo'l bilan kelishish tavsiya etiladi. Agar qo'shni zararni qoplashdan bosh tortsa, **Mustaqil baholash tashkiloti** orqali zarar miqdori baholanadi va fuqarolik ishlari bo'yicha **sudga da'vo arizasi** kiritish orqali moddiy va ma'naviy zarar to'liq undirib olinadi.\n\n📜 **Asoslovchi normativ-huquqiy hujjat:**\n* **Hujjat nomi:** O'zbekiston Respublikasining Fuqarolik kodeksi.\n* **Tegishli modda:** 985-modda (Zarar yetkazishdan kelib chiqadigan majburiyatlar umumiy asoslari) va 14-modda (Zararni yetkazgan shaxsning javobgarligi).\n* **Hujjat maqomi:** ✅ **AMALDAGI**.\n> *Fuqarolik kodeksining 985-moddasiga ko'ra, g'ayrihuquqiy harakat (harakatsizlik) natijasida fuqaroning shaxsiga yoki mol-mulkiga yetkazilgan zarar, shu jumladan mulkka yetkazilgan zarar zararni yetkazgan shaxs tomonidan to'liq hajmda qoplanishi lozim.*\n\n---\n\n💡 **Amaliy tavsiya / Harakatlar ketma-ketligi:**\n\n1. **Holatni qayd etish (Dalolatnoma tuzish):**\n   * Darhol yashab turgan uyingizga xizmat ko'rsatuvchi tashkilotga (**BOSHQARUV SERVIS KOMPANIYASI**, Shirkat yoki Xonadon egalari kengashiga) murojaat qiling.\n   * Ular kelib, holatni ko'zdan kechiradi va yetkazilgan zararni batafsil ko'rsatgan holda **dalolatnoma** tuzib beradi. Dalolatnomada suvning qayerdan oqqani va xonadonga qanday ziyon yetgani yozilishi shart.\n   * *Maslahat:* Holatni (devorlar, shift, pol, uy jihozlari) foto va videokuzatuvga aniq qilib muhrlab qo'ying.\n\n2. **Zarar miqdorini baholatish:**\n   * Litsenziyalangan **baholovchi tashkilotga** murojaat qilib, yetkazilgan moddiy zararning aniq bozor qiymatini hisoblatasiz. Baholovchi tomonidan rasmiy hisobot taqdim etiladi (baholash xarajatlari ham qo'shnidan undiriladi).\n\n3. **Ixtiyoriy hal qilishga urinish:**\n   * Qo'shningizga dalolatnoma va baholash hisobotini ko'rsatib, zararni ixtiyoriy ravishda to'lab berishini so'rang. Agarda rozi bo'lmasa, sudga murojaat qilishingizni bildiring.\n\n4. **Sudga da'vo arizasi kiritish:**\n   * Agar qo'shni zararni qoplamasa, yashash manzilingiz bo'yicha **Fuqarolik ishlari bo'yicha tumanlararo sudga** da'vo arizasi kiritasiz.\n   * Da'vo arizasiga quyidagilarni ilova qilasiz:\n     * Pasport nusxasi;\n     * Uy-joyga egalik huquqini tasdiqlovchi hujjat;\n     * BSK (boshqaruv kompaniyasi) dalolatnomasi;\n     * Baholovchi tashkilotning zarar miqdori ko'rsatilgan Hisoboti;\n     * Davlat boji to'linganligini tasdiqlovchi kvitansiya (mulkiy da'volarda davlat boji qonunchilikka ko'ra foiz stavkada to'lanadi, ish yutib chiqilgach bu xarajat ham javobgardan undiriladi).\n\n🔗 **Rasmiy Lex.uz havolasi:**\n* O'zbekiston Respublikasining Fuqarolik kodeksi (985-modda va 14-moddalar bilan tanishish uchun): [Lex.uz Fuqarolik kodeksi](https://lex.uz/docs/111189)",
+      "sources": [
+        {
+          "title": "Lex.uz Qonunchilik ma'lumotlari milliy bazasi",
+          "uri": "https://lex.uz"
+        }
+      ],
+      "law_status": "AMALDAGI_QONUNCHILIK",
+      "timestamp": "2026-11-04T19:40:11.551Z"
+    },
+    {
+      "id": "aiq_1793821198028_um1a",
+      "user_id": "default_user",
+      "user_name": "Foydalanuvchi",
+      "query": "Ish beruvchi 2 oydan beri oylik bermayapti, nima qilsam boʻladi?",
+      "answer": "⚖️ **Ish beruvchi oylik ish haqini to'lamasa yoki kechiktirsa, nima qilish kerak:**\n\n📌 **1. Qonuniy asos va majburiyatlar (Yangi Mehnat kodeksi):**\n• **253-modda:** Ish beruvchi xodimga ish haqini har yarim oyda kamida bir marta (oyiga 2 marta) to'lashi shart.\n• **333-modda (Kechiktirilgan kun uchun kompensatsiya):** Ish beruvchi ish haqini kechiktirgan har bir kun uchun O'zbekiston Respublikasi Markaziy bankining qayta moliyalash stavkasi miqdorida **majburiy foiz (kompensatsiya)** to'lashi shart!\n• **MJtK 49-moddasi:** Ish haqini bermagan rahbar va mansabdor shaxslarga **BHMning 5 baravaridan 10 baravarigacha**, takrorlansa **15 baravarigacha jarima** qo'llaniladi.\n\n📋 **2. NIMA QILISH KERAK (Qadamma-qadam yo'riqnoma):**\n1️⃣ **Ish beruvchiga yozma ariza bering:** O'z vaqtida to'lanmagan ish haqini to'lashni talab qiling (ariza nusxasiga kirim raqami qo'ydiring).\n2️⃣ **Mehnat inspeksiyasiga shikoyat qiling:** Kambag'allikni qisqartirish va bandlik vazirligi Davlat mehnat inspeksiyasiga murojaat qiling:\n   • 📞 Ishonch telefoni: **1282**\n   • 🌐 Sayt: **dmi.mehnat.uz**\n   Inspektor korxonada tekshiruv o'tkazib, ish haqini to'lash bo'yicha majburiy ko'rsatma beradi va rahbarga jarima qo'llaydi.\n3️⃣ **Sudga murojaat qiling:** Fuqarolik ishlari bo'yicha tumanlararo sudga ish haqini va har bir kunlik kechiktirish foizini undirish to'g'risida da'vo arizasi bering.\n   ⚠️ *ENG KATTA HUQUQIY IMTIYOZ:* Mehnat munosabatlari va ish haqini undirish bo'yicha xodimlar **DAVLAT BOJIDAN VA SUD XARAJATLARIDAN TO'LIQ OZOD QILINGAN!**\n\n🟢 **Maqomi:** ✅ AMALDAGI QONUNCHILIK (Yangi Mehnat kodeksi O'RQ-798)\n📜 **Asosiy moddalar:** Yangi Mehnat kodeksi 23, 253, 333-moddalari, MJtK 49-modda\n🔗 **Lex.uz rasmiy havolasi:** https://lex.uz/docs/6257288",
+      "sources": [
+        {
+          "title": "Lex.uz Rasmiy Qonunchilik Bazasida Ko'rish",
+          "uri": "https://lex.uz/docs/6257288"
+        }
+      ],
+      "law_status": "AMALDAGI_QONUNCHILIK",
+      "timestamp": "2026-11-04T19:39:58.028Z"
+    },
+    {
+      "id": "aiq_1793718264966_8otf",
+      "user_id": "admin_master",
+      "telegram_id": 1,
+      "user_name": "Odiljon",
+      "query": "Oila kodeksi 99-moddasi aliment miqdori",
+      "answer": "⚖️ **Oila kodeksining 99-moddasi:**\n\n📌 **99-modda. Aliment miqdori:**\nSud tartibida undirilganda oylik ish haqi va boshqa daromadlarning:\n• 1 nafar bola uchun — **to‘rtdan bir qismi (25%)**;\n• 2 nafar bola uchun — **uchdan bir qismi (33.3%)**;\n• 3 va undan ortiq bola uchun — **yarmisi (50%)** undiriladi.\n• Har bir bola uchun eng kam miqdor — MHEKMning 26.5 foizidan kam bo'lmasligi shart.\n\n🟢 **Maqomi:** ✅ AMALDAGI QONUNCHILIK\n🔗 **Lex.uz rasmiy havolasi:** https://lex.uz/docs/104720",
+      "sources": [
+        {
+          "title": "Lex.uz Rasmiy Qonunchilik Bazasida Ko'rish",
+          "uri": "https://lex.uz/docs/104720"
+        }
+      ],
+      "law_status": "AMALDAGI_QONUNCHILIK",
+      "timestamp": "2026-11-03T15:04:24.966Z"
+    }
+  ],
+  "cases": [
+    {
+      "id": "case_demo_1",
+      "user_id": "default_user",
+      "title": "Ish haqini undirish to'g'risida da'vo",
+      "category": "mehnat",
+      "status": "in_progress",
+      "case_number": "2-1002/2026",
+      "court_name": "Fuqarolik ishlari bo'yicha Mirzo Ulug'bek tumanlararo sudi",
+      "next_deadline": "2026-03-20",
+      "notes": "Mehnat shartnomasi va bankdan oylik ko'chirmasi ilova qilingan. 3 oylik maosh kechiktirilgan.",
+      "document_ids": [
+        "doc_demo_1"
+      ],
+      "created_at": "2026-11-01T14:51:57.080Z",
+      "updated_at": "2026-11-03T14:51:57.080Z"
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc_demo_1",
+      "user_id": "default_user",
+      "case_id": "case_demo_1",
+      "title": "Ish haqini undirish to'g'risida da'vo arizasi",
+      "doc_type": "da_vo",
+      "party_a": "Alimov Alisher",
+      "party_b": "\"Grand Logistic\" MCHJ",
+      "content": "Fuqarolik ishlari bo'yicha tumanlararo sudiga\nDa'vogar: Alimov Alisher\nJavobgar: \"Grand Logistic\" MCHJ\n\nDA'VO ARIZASI\n(Ish haqini majburiy tartibda undirish to'g'risida)\n\nMen \"Grand Logistic\" MCHJda 2023-yil 1-fevraldan boshlab ekspeditor lavozimida ishlab kelganman. 2025-yil dekabr, 2026-yil yanvar va fevral oylari uchun jami 18,500,000 so'm ish haqi to'lanmadi.\n\nO'zbekiston Respublikasi Mehnat kodeksining 253-moddasiga binoan, ish beruvchi ish haqini o'z vaqtida to'lashi shart.\n\nShuningdek, MK 333-moddasiga muvofiq, ish beruvchi ish haqini to'lashni kechiktirgani uchun Markaziy bank qayta moliyalash stavkasi miqdorida kompensatsiya to'lashi lozim.\n\nYuqoridagilarga asosan, sudidan:\n1. Javobgardan mening foydamga 18,500,000 so'm asosiy ish haqi undirib berishingizni;\n2. Davlat bojidan ozod qilishingizni (Soliq kodeksi 329-modda) so'rayman.",
+      "legal_basis": [
+        "MK 253-modda",
+        "MK 333-modda",
+        "SK 329-modda"
+      ],
+      "created_at": "2026-11-01T14:51:57.080Z",
+      "updated_at": "2026-11-03T14:51:57.080Z"
+    }
+  ],
+  "calculations": [
+    {
+      "id": "calc_demo_1",
+      "user_id": "default_user",
+      "calc_type": "aliment",
+      "title": "2 nafar farzand uchun aliment",
+      "inputs": {
+        "children": 2,
+        "income": 8000000
+      },
+      "result": {
+        "monthly_amount": 2666667,
+        "percentage": "33.3% (1/3)",
+        "minimum_per_child": 385000
+      },
+      "formula": "Oila kodeksi 99-moddasi: 2 nafar bolaga daromadning 1/3 qismi",
+      "legal_basis": "Oila kodeksi 99-modda",
+      "created_at": "2026-11-02T14:51:57.080Z"
+    }
+  ],
+  "academy": [
+    {
+      "user_id": "default_user",
+      "completed_lessons": [
+        "mk_basics",
+        "fk_contracts"
+      ],
+      "scores": [
+        {
+          "category": "Mehnat huquqi",
+          "score": 90,
+          "total": 100,
+          "date": "2026-11-03T14:51:57.080Z"
+        }
+      ],
+      "total_xp": 450,
+      "rank_title": "Katta Yurist Maslahatchi"
+    }
+  ],
+  "audit_logs": [
+    {
+      "id": "log_1793718278030_wp2",
+      "timestamp": "2026-11-03T15:04:38.030Z",
+      "action": "ASSIGN_ADMIN",
+      "actor_id": "admin",
+      "details": "Yangi admin tayinlandi: odiljon"
+    },
+    {
+      "id": "log_init",
+      "timestamp": "2026-11-03T14:51:57.080Z",
+      "action": "SYSTEM_START",
+      "actor_id": "system",
+      "details": "LexAI 2.0 Yagona Huquqiy AI Ekotizimi ishga tushirildi"
+    }
+  ],
+  "config": {
+    "bhm": 375000,
+    "mhekm": 1155000,
+    "active_modules": {
+      "ai": true,
+      "ocr": true,
+      "calculators": true,
+      "case_manager": true,
+      "academy": true,
+      "docs": true,
+      "lex": true
+    },
+    "version": "2.0.0"
+  }
+}

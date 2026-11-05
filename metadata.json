@@ -1,0 +1,7 @@
+{
+  "name": "LexAI - O'zbekiston Huquqiy Telegram Boti & Lex.uz AI",
+  "description": "Lex.uz qonunchilik bazasidan faqat amaldagi eng yangi qonun va qarorlarni topib, eskirganlarini chiqarib tashlaydigan aqlli huquqiy Telegram bot va AI maslahatchisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
